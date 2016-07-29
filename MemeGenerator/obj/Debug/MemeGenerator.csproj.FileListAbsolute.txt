@@ -1,0 +1,9 @@
+D:\Workspace\C#\MemeGenerator\MemeGenerator\bin\Debug\MemeGenerator.exe.config
+D:\Workspace\C#\MemeGenerator\MemeGenerator\bin\Debug\MemeGenerator.exe
+D:\Workspace\C#\MemeGenerator\MemeGenerator\bin\Debug\MemeGenerator.pdb
+D:\Workspace\C#\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.Form1.resources
+D:\Workspace\C#\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.Properties.Resources.resources
+D:\Workspace\C#\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.csproj.GenerateResource.Cache
+D:\Workspace\C#\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.exe
+D:\Workspace\C#\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.pdb
